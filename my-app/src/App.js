@@ -15,8 +15,8 @@ function App() {
         div >
         <
         h1 > React + Spring Boot < /h1> <
-        p > { message } < /p> <
-        /div>
+        p > { message } < /p> < /
+        div >
     );
 }
 
